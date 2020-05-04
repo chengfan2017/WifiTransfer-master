@@ -16,7 +16,7 @@
 ### 网页端截图
 <img src="./screenshot/yemian.png" width="30%"/>
 
-### Apk下载体验
+### Apk下载体验（科学上网）
 [Apk下载](https://raw.githubusercontent.com/MZCretin/WifiTransfer-master/master/apk/wifitransfer.apk)
 
 ### 版权声明 
